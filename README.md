@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jade</h1>
-<h3 align="center">A passionate frontend developer sertaneja baiana daugther's</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadefigueredo&label=Profile%20views&color=0e75b6&style=flat" alt="jadefigueredo" /> </p>
 
