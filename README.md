@@ -5,7 +5,7 @@
 <br>
 Currently, I'm studying HTML, CSS, JavaScript, and Python. I'm a member of PyLadies Salvador and I've been trying to contribute and learn within the community.
 <br>
-Here you will be able to see some repositories with exercises that I do for the languages I'm studying and some projects I'm working on. 🤓 </h5>
+Here you will be able to see some repositories with exercises and projects that I do for the languages I'm studying, and projects that I'm working on. 🤓 </h5>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Here you will be able to see some repositories with exercises that I do for the 
 <br>
  No momento estou estou estudando HTML, CSS, JavaScript e Python, faço parte da PyLadies Salvador e tenho tentado contribuir e aprender na comunidade.
 <br>
- Aqui você conseguirá ver alguns repositórios com exercícios que eu faço das linguagens que estou estudando e alguns projetos que estou desenvolvendo. 🤓 </h5>
+ Aqui você conseguirá ver alguns repositórios com exercícios e projetos que eu faço das linguagens que estou estudando e desenvolvendo. 🤓 </h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadefigueredo&label=Profile%20views&color=0e75b6&style=flat" alt="jadefigueredo" /> </p>
 
