@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Jade! 💁🏽</h1> 
+<h1 align="center">Hello, friend! 🤖</h1> 
  <h5 align="center">I'm undergoing a career transition and I'm seeking to align all my knowledge through technology.
 <br>
 Currently, I'm studying HTML, CSS, JavaScript, and Python. I'm a member of PyLadies Salvador and I've been trying to contribute and learn within the community.
