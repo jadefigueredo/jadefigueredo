@@ -4,7 +4,7 @@
  <h5 align="center">I'm undergoing a career transition and I'm seeking to align all my knowledge through technology.
 <br>
 Currently, I'm studying HTML, CSS, JavaScript, and Python. I'm a member of PyLadies Salvador and I've been trying to contribute and learn within the community.
-Here you will be able to see some repositories with exercises and projects that I do for the languages I'm studying, and projects that I'm working on. 🤓 </h5>
+These are repositories with exercises and projects that I'm working on. 🤓 </h5>
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
