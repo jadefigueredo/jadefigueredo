@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello, friend! 🤖</h1> 
- <h5 align="center">I'm undergoing a career transition and I'm seeking to align all my knowledge through technology.
+ <h5 align="center">Hi, I'm Jade! I'm a student of psychology and systems analysis and development, I'm very interested in research and data analysis and that's why I started programming. I'm seeking to align all my knowledge through technology.
 <br>
 Currently, I'm studying HTML, CSS, JavaScript, and Python. I'm a member of PyLadies Salvador and I've been trying to contribute and learn within the community.
 These are repositories with exercises and projects that I'm working on. 🤓 </h5>
@@ -9,7 +9,7 @@ These are repositories with exercises and projects that I'm working on. 🤓 </h
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h5 align="center">Oi, eu sou Jade! Estou fazendo migração de carreira e estou buscando alinhar todos os meus conhecimentos por meio da tecnologia. 
+<h5 align="center">Oi, eu sou Jade! Sou uma estudante de psicologia e análise e desenvolvimento de sistemas, tenho muito interesse em pesquisa e análise de dados e por isso comecei a programar, atualmente estou buscando alinhar todos os meus conhecimentos por meio da tecnologia. 
 <br>
  No momento estou estudando HTML, CSS, JavaScript e Python, faço parte da PyLadies Salvador e tenho tentado contribuir e aprender na comunidade.
  Aqui você conseguirá ver alguns repositórios com exercícios e projetos que eu faço das linguagens que estou estudando e desenvolvendo. 🤓 </h5>
