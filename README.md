@@ -34,4 +34,3 @@ These are repositories with exercises and projects that I'm working on. 🤓 </h
     <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="40" height="40"/>
   </a> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadefigueredo&show_icons=true&locale=en" alt="jadefigueredo" /></p>
