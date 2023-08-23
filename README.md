@@ -1,34 +1,31 @@
+# Jade Figueredo
 
 
-<h1 align="center">Hello, friend! 🤖</h1> 
- <p align="center">Hi, I'm Jade! I'm a student of systems analysis and development, I'm very interested in research and data analysis and that's why I started programming. I'm seeking to align all my knowledge through technology.
-<br>
-Currently, I'm studying HTML, CSS, JavaScript, and Python. I'm a member of PyLadies Salvador and I've been trying to contribute and learn within the community.
-These are repositories with exercises and projects that I'm working on. 🤓 </p>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jadefigueredo/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:jadefigueredo@outlook.com)
+[![Discord Bagde](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://www.discord.com/in/jadefigueredo/)
+[![Médium Bagde](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jadespedro)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--![Jade Figueredo's github stats](https://github-readme-stats.vercel.app/api?username=jadefigueredo&show_icons=true&theme=tokyonight)-->
 
-<p align="center">Oi, eu sou Jade! Sou uma estudante de análise e desenvolvimento de sistemas, tenho muito interesse em pesquisa e análise de dados e por isso comecei a programar, atualmente estou buscando alinhar todos os meus conhecimentos por meio da tecnologia. 
-<br>
- No momento estou estudando HTML, CSS, JavaScript e Python, faço parte da PyLadies Salvador e tenho tentado contribuir e aprender na comunidade.
- Aqui você conseguirá ver alguns repositórios com exercícios e projetos que eu faço das linguagens que estou estudando e desenvolvendo. 🤓 </p>
- <br>
+## 🛸 About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
-    <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="40" height="40"/>
-  </a> 
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadefigueredo&show_icons=true&locale=en" alt="jadefigueredo" /></p>
+👩🏽‍🎓 &nbsp;Bacharel em Humanidades 
 
+📊 &nbsp;Estudante de Psicologia e pesquisadora da área
+
+💻 &nbsp;Software Engineer Trainee      
+
+## 🛠️ Skills
+
+### 👩🏽‍💻 Languages, enviroments and tools
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadefigueredo&theme=transparent&bg_color=E5FFCC&border_color=00FF7F&show_icons=true&icon_color=00FF7F&title_color=006400&text_color=404040)
