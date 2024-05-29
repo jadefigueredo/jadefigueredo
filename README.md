@@ -12,8 +12,6 @@
 
 👩🏽‍🎓 &nbsp;Bacharel em Humanidades 
 
-📊 &nbsp;Estudante de Psicologia e pesquisadora da área
-
 💻 &nbsp;Software Engineer Trainee      
 
 ## 🛠️ Skills
